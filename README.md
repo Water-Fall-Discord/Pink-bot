@@ -13,4 +13,4 @@ suggestions for new names are welcome , i gave 3 sec of thought before giving th
 
 ## FAQ
 y is this in an organization?
-cause i intend to make some plugins and themes for discord as well. Also i have specific purpose bots as well , but not going to revel that as of now.
+cause i intend to make some plugins and themes for discord as well. Also i have specific purpose bots as well , but not going to reveal that as of now.
